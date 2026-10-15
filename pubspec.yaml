@@ -15,6 +15,7 @@ dependencies:
   rename: ^3.1.0
   flutter_inappwebview: ^6.1.5
   webview_flutter: ^4.14.1
+  url_launcher: ^6.3.3
   
 
 dev_dependencies:
